@@ -13,3 +13,4 @@ statsmodels==0.13.2
 tensorflow==2.12.0
 tensorflow-data-validation==1.13.0
 apache-beam[interactive]==2.46.0
+CurrencyConverter==0.17.7
