@@ -15,5 +15,3 @@ apache-beam[interactive]
 CurrencyConverter
 iPython
 imblearn
-tensorflow_data_validation
-protobuf==3.20.*
