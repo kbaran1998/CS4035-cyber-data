@@ -5,6 +5,5 @@ matplotlib
 statsmodels
 sklearn
 statsmodels
-sklearn
 nbformat
 tqdm

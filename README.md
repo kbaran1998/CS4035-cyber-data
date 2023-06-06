@@ -20,3 +20,5 @@ docker-compose -f docker-compose-windows.yml up
 ```
 
 Make sure your permissions for Docker are set correctly.
+
+Remember to put the data in the data folder.
