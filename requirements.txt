@@ -9,10 +9,7 @@ matplotlib
 imbalanced-learn
 plotly
 nbformat
-statsmodels
-tensorflow
 apache-beam[interactive]
-CurrencyConverter
 iPython
 imblearn
 tqdm
