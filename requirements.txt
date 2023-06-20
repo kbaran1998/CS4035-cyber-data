@@ -16,4 +16,4 @@ CurrencyConverter
 iPython
 imblearn
 tqdm
-
+sympy
