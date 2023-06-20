@@ -13,4 +13,5 @@ apache-beam[interactive]
 iPython
 imblearn
 tqdm
-
+sympy
+Rich
