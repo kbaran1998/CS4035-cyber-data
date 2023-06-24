@@ -155,5 +155,12 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Data sets
 lab3/datasets/
+lab4/data/
+
+
+
 lab3/flexfringe-x64-linux
+
